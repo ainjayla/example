@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "name": "Flutter (lib/main.dart)",
+      "type": "dart",
+      "request": "launch",
+      "program": "lib/main.dart",
+      "deviceId": "chrome",
+      "args": [
+        "--web-browser-flag=--disable-web-security"
+      ]
+    }
+  ]
+}
